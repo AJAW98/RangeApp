@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+}
+
+.leaflet-routing-container {
+  display: none;
+}
+
+.custom-map-marker {
+  background-color: #10b981;
+  color: white;
+  text-align: center;
+  padding: 4px;
+  border-radius: 50%;
+}
