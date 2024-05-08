@@ -15,6 +15,7 @@
     </div>
     <VehicleDetails v-model:visible="showVehicleCustomize" @close="showVehicleCustomize = false"/>
     <RideDetails/>
+    <pre>test</pre>
   </div>
 
 
